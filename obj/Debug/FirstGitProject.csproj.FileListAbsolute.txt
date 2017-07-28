@@ -1,0 +1,6 @@
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.exe.config
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.exe
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\bin\Debug\FirstGitProject.pdb
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.csprojResolveAssemblyReference.cache
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.exe
+c:\users\ayanar\documents\visual studio 2015\Projects\FirstGitProject\FirstGitProject\obj\Debug\FirstGitProject.pdb
